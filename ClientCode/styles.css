@@ -124,7 +124,6 @@ a:hover {
   padding: 7rem;
   margin: 5rem;
   align-items: center;
-  width: 90%;
 }
 .meetboard h2{
   justify-content: center;
@@ -275,10 +274,9 @@ header nav>a:hover{
     color: #24344a;
     text-decoration: seashell;
     display: inline-block;
-    box-shadow: #436e7f;
 }
 .social{
-    padding: right 2rem;
+    padding: 2rem;
 }
 footer{
   justify-content: space-around;
